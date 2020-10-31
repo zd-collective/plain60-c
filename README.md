@@ -1,9 +1,14 @@
-# Plain60-C rev2.2
+# Plain60-C rev2.2 (ZDC60 edition)
 
 ![Plain60-C PCB](https://i.imgur.com/RV89nCT.png)
 This universal 60% PCB is designed to support as little layouts as possible without limiting usability for most users. The reason I did this is because other PCBs made for this form factor usually have so many supported layouts that it could almost qualify as swiss cheese.
 
 It also features a fuse and an ESD protection chip to protect the MCU and other parts of the PCB.
+
+## Modifications
+
+- modified to use the same JST header position as the WT60 by Wilba
+- holes for mounting of the weight on the ZDC60
 
 ## Features
 - Compatible with QMK Firmware and VIA Configurator (if you flash a VIA compatible .hex file)
