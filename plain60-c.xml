@@ -1,0 +1,2606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\_git\plain60-c\plain60-c.kicad_sch</source>
+    <date>11/1/2020 1:37:43 AM</date>
+    <tool>Eeschema (5.99.0-4079-gfad0916f0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>plain60-c.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1u</value>
+      <footprint>Keeb_components:C_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c2b0975</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>0.1u</value>
+      <footprint>Keeb_components:C_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c2bdd17</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>0.1u</value>
+      <footprint>Keeb_components:C_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c2c2574</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>0.1u</value>
+      <footprint>Keeb_components:C_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c2c2832</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>0.1u</value>
+      <footprint>Keeb_components:C_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c2c2ac1</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>4.7u</value>
+      <footprint>Keeb_components:C_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c2c2d6b</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c3fa4e8</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c4cc74a</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c4d0027</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c4d3039</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c4d6adc</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c4e2e71</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c4e2e7f</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c4e2e8d</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c4e2e9b</tstamp>
+    </comp>
+    <comp ref="D10">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c4e2ea9</tstamp>
+    </comp>
+    <comp ref="D11">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c4ebdb6</tstamp>
+    </comp>
+    <comp ref="D12">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c4ebdc4</tstamp>
+    </comp>
+    <comp ref="D13">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c4ebdd2</tstamp>
+    </comp>
+    <comp ref="D14">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c4ebde0</tstamp>
+    </comp>
+    <comp ref="D15">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c4ebdee</tstamp>
+    </comp>
+    <comp ref="D16">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c51ab11</tstamp>
+    </comp>
+    <comp ref="D17">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c51ab1f</tstamp>
+    </comp>
+    <comp ref="D18">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c51ab2d</tstamp>
+    </comp>
+    <comp ref="D19">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c51ab3b</tstamp>
+    </comp>
+    <comp ref="D20">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c51ab49</tstamp>
+    </comp>
+    <comp ref="D21">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c51ab57</tstamp>
+    </comp>
+    <comp ref="D22">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c51ab65</tstamp>
+    </comp>
+    <comp ref="D23">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c51ab73</tstamp>
+    </comp>
+    <comp ref="D24">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c51ab81</tstamp>
+    </comp>
+    <comp ref="D25">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c51ab8f</tstamp>
+    </comp>
+    <comp ref="D26">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c51ab9d</tstamp>
+    </comp>
+    <comp ref="D27">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c51abab</tstamp>
+    </comp>
+    <comp ref="D28">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c51abb9</tstamp>
+    </comp>
+    <comp ref="D29">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c51abc7</tstamp>
+    </comp>
+    <comp ref="D31">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c533db8</tstamp>
+    </comp>
+    <comp ref="D32">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c533dc6</tstamp>
+    </comp>
+    <comp ref="D33">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c533dd4</tstamp>
+    </comp>
+    <comp ref="D34">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c533de2</tstamp>
+    </comp>
+    <comp ref="D35">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c533df0</tstamp>
+    </comp>
+    <comp ref="D36">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c533dfe</tstamp>
+    </comp>
+    <comp ref="D37">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c533e0c</tstamp>
+    </comp>
+    <comp ref="D38">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c533e1a</tstamp>
+    </comp>
+    <comp ref="D39">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c533e28</tstamp>
+    </comp>
+    <comp ref="D40">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c533e36</tstamp>
+    </comp>
+    <comp ref="D41">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c533e44</tstamp>
+    </comp>
+    <comp ref="D42">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c533e52</tstamp>
+    </comp>
+    <comp ref="D43">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c533e60</tstamp>
+    </comp>
+    <comp ref="D44">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c533e6e</tstamp>
+    </comp>
+    <comp ref="D46">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c5435bf</tstamp>
+    </comp>
+    <comp ref="D47">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c5435cd</tstamp>
+    </comp>
+    <comp ref="D48">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c5435db</tstamp>
+    </comp>
+    <comp ref="D49">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c5435e9</tstamp>
+    </comp>
+    <comp ref="D50">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c5435f7</tstamp>
+    </comp>
+    <comp ref="D51">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c543605</tstamp>
+    </comp>
+    <comp ref="D52">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c543613</tstamp>
+    </comp>
+    <comp ref="D53">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c543621</tstamp>
+    </comp>
+    <comp ref="D54">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c54362f</tstamp>
+    </comp>
+    <comp ref="D55">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c54363d</tstamp>
+    </comp>
+    <comp ref="D56">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c54364b</tstamp>
+    </comp>
+    <comp ref="D57">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c543659</tstamp>
+    </comp>
+    <comp ref="D58">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c543667</tstamp>
+    </comp>
+    <comp ref="D59">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c543675</tstamp>
+    </comp>
+    <comp ref="D61">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c555dea</tstamp>
+    </comp>
+    <comp ref="D62">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c555df8</tstamp>
+    </comp>
+    <comp ref="D63">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c555e06</tstamp>
+    </comp>
+    <comp ref="D67">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c555e3e</tstamp>
+    </comp>
+    <comp ref="D71">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005cb7e68b</tstamp>
+    </comp>
+    <comp ref="D72">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c555e84</tstamp>
+    </comp>
+    <comp ref="D73">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c555e92</tstamp>
+    </comp>
+    <comp ref="D74">
+      <value>D</value>
+      <footprint>Keeb_components:D_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c555ea0</tstamp>
+    </comp>
+    <comp ref="F1">
+      <value>Polyfuse</value>
+      <footprint>Keeb_components:R_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Polyfuse" description="Resettable fuse, polymeric positive temperature coefficient"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c2c8a40</tstamp>
+    </comp>
+    <comp ref="H1">
+      <value>B0</value>
+      <footprint>footprints:free_pin</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005cf9afc5</tstamp>
+    </comp>
+    <comp ref="H3">
+      <value>GND</value>
+      <footprint>footprints:free_pin</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c38a41a</tstamp>
+    </comp>
+    <comp ref="H4">
+      <value>+5v</value>
+      <footprint>footprints:free_pin</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x01" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c3ad2bf</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>HRO-TYPE-C-31-M-12</value>
+      <footprint>Keeb_components:HRO-TYPE-C-31-M-12</footprint>
+      <libsource lib="Type-C" part="HRO-TYPE-C-31-M-12" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c2dbb52</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>ISP</value>
+      <footprint>Keeb_components:isp_standard</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_02x03_Odd_Even" description="Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005cee94ea</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>ai03_ud</value>
+      <footprint>Keeb_components:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005d8eb007</tstamp>
+    </comp>
+    <comp ref="K1">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c3f9b1f</tstamp>
+    </comp>
+    <comp ref="K2">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c4cc744</tstamp>
+    </comp>
+    <comp ref="K3">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c4d0021</tstamp>
+    </comp>
+    <comp ref="K4">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c4d3033</tstamp>
+    </comp>
+    <comp ref="K5">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c4d6ad6</tstamp>
+    </comp>
+    <comp ref="K6">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c4e2e6b</tstamp>
+    </comp>
+    <comp ref="K7">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c4e2e79</tstamp>
+    </comp>
+    <comp ref="K8">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c4e2e87</tstamp>
+    </comp>
+    <comp ref="K9">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c4e2e95</tstamp>
+    </comp>
+    <comp ref="K10">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c4e2ea3</tstamp>
+    </comp>
+    <comp ref="K11">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c4ebdb0</tstamp>
+    </comp>
+    <comp ref="K12">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c4ebdbe</tstamp>
+    </comp>
+    <comp ref="K13">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c4ebdcc</tstamp>
+    </comp>
+    <comp ref="K14">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c4ebdda</tstamp>
+    </comp>
+    <comp ref="K15">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PCB_200H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c4ebde8</tstamp>
+    </comp>
+    <comp ref="K16">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_150H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c51ab0b</tstamp>
+    </comp>
+    <comp ref="K17">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c51ab19</tstamp>
+    </comp>
+    <comp ref="K18">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c51ab27</tstamp>
+    </comp>
+    <comp ref="K19">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c51ab35</tstamp>
+    </comp>
+    <comp ref="K20">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c51ab43</tstamp>
+    </comp>
+    <comp ref="K21">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c51ab51</tstamp>
+    </comp>
+    <comp ref="K22">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c51ab5f</tstamp>
+    </comp>
+    <comp ref="K23">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c51ab6d</tstamp>
+    </comp>
+    <comp ref="K24">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c51ab7b</tstamp>
+    </comp>
+    <comp ref="K25">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c51ab89</tstamp>
+    </comp>
+    <comp ref="K26">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c51ab97</tstamp>
+    </comp>
+    <comp ref="K27">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c51aba5</tstamp>
+    </comp>
+    <comp ref="K28">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c51abb3</tstamp>
+    </comp>
+    <comp ref="K29">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_150H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c51abc1</tstamp>
+    </comp>
+    <comp ref="K31">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_175H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c533db2</tstamp>
+    </comp>
+    <comp ref="K32">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c533dc0</tstamp>
+    </comp>
+    <comp ref="K33">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c533dce</tstamp>
+    </comp>
+    <comp ref="K34">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c533ddc</tstamp>
+    </comp>
+    <comp ref="K35">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c533dea</tstamp>
+    </comp>
+    <comp ref="K36">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c533df8</tstamp>
+    </comp>
+    <comp ref="K37">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c533e06</tstamp>
+    </comp>
+    <comp ref="K38">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c533e14</tstamp>
+    </comp>
+    <comp ref="K39">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c533e22</tstamp>
+    </comp>
+    <comp ref="K40">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c533e30</tstamp>
+    </comp>
+    <comp ref="K41">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c533e3e</tstamp>
+    </comp>
+    <comp ref="K42">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c533e4c</tstamp>
+    </comp>
+    <comp ref="K43">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c533e5a</tstamp>
+    </comp>
+    <comp ref="K44">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PCB_225H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c533e68</tstamp>
+    </comp>
+    <comp ref="K46">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PCB_225H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c5435b9</tstamp>
+    </comp>
+    <comp ref="K47">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c5435c7</tstamp>
+    </comp>
+    <comp ref="K48">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c5435d5</tstamp>
+    </comp>
+    <comp ref="K49">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c5435e3</tstamp>
+    </comp>
+    <comp ref="K50">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c5435f1</tstamp>
+    </comp>
+    <comp ref="K51">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c5435ff</tstamp>
+    </comp>
+    <comp ref="K52">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c54360d</tstamp>
+    </comp>
+    <comp ref="K53">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c54361b</tstamp>
+    </comp>
+    <comp ref="K54">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c543629</tstamp>
+    </comp>
+    <comp ref="K55">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c543637</tstamp>
+    </comp>
+    <comp ref="K56">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c543645</tstamp>
+    </comp>
+    <comp ref="K57">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c543653</tstamp>
+    </comp>
+    <comp ref="K58">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PCB_275H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c543661</tstamp>
+    </comp>
+    <comp ref="K59">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c54366f</tstamp>
+    </comp>
+    <comp ref="K61">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_125H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c555de4</tstamp>
+    </comp>
+    <comp ref="K62">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_125H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c555df2</tstamp>
+    </comp>
+    <comp ref="K63">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_125H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c555e00</tstamp>
+    </comp>
+    <comp ref="K67">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PCB_625H_F</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c555e38</tstamp>
+    </comp>
+    <comp ref="K71">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_125H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005cb7e685</tstamp>
+    </comp>
+    <comp ref="K72">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_125H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c555e7e</tstamp>
+    </comp>
+    <comp ref="K73">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_125H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c555e8c</tstamp>
+    </comp>
+    <comp ref="K74">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_125H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c555e9a</tstamp>
+    </comp>
+    <comp ref="K15-1">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c7ed068</tstamp>
+    </comp>
+    <comp ref="K31-1">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_125H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c80a9a3</tstamp>
+    </comp>
+    <comp ref="K44-1">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PCB_200H_V</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c818730</tstamp>
+    </comp>
+    <comp ref="K46-1">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_125H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c826264</tstamp>
+    </comp>
+    <comp ref="K58-1">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_175H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c8265db</tstamp>
+    </comp>
+    <comp ref="K61-1">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_150H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c832ff7</tstamp>
+    </comp>
+    <comp ref="K62-1">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c833459</tstamp>
+    </comp>
+    <comp ref="K63-1">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_150H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c83396d</tstamp>
+    </comp>
+    <comp ref="K67-1">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PCB_700H_F</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c833e91</tstamp>
+    </comp>
+    <comp ref="K72-1">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_150H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c834723</tstamp>
+    </comp>
+    <comp ref="K73-1">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_100H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c834c5a</tstamp>
+    </comp>
+    <comp ref="K74-1">
+      <value>KEYSW</value>
+      <footprint>Keeb_switches:CHERRY_PLATE_150H</footprint>
+      <libsource lib="keyboard_parts" part="KEYSW" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c835078</tstamp>
+    </comp>
+    <comp ref="LS1">
+      <value>Speaker</value>
+      <footprint>Keeb_components:speaker_AST1109MLTRQ</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Speaker" description="Speaker"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005e0cbbd2</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>22</value>
+      <footprint>Keeb_components:R_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c29eea3</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>22</value>
+      <footprint>Keeb_components:R_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c29f85e</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>5.1k</value>
+      <footprint>Keeb_components:R_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c314296</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>5.1k</value>
+      <footprint>Keeb_components:R_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c31429c</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>Keeb_components:R_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c2a3e53</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>10k</value>
+      <footprint>Keeb_components:R_0805</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c2aa91a</tstamp>
+    </comp>
+    <comp ref="S1">
+      <value>Screw</value>
+      <footprint>footprints:5.5_5x2.5mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x01" description="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c2a7b35</tstamp>
+    </comp>
+    <comp ref="S2">
+      <value>Screw</value>
+      <footprint>footprints:5.5_5x2.5mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x01" description="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c2aa553</tstamp>
+    </comp>
+    <comp ref="S3">
+      <value>Screw</value>
+      <footprint>footprints:5.5_5x2.5mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x01" description="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c2cd859</tstamp>
+    </comp>
+    <comp ref="S4">
+      <value>Screw</value>
+      <footprint>footprints:10x5_7x2.5mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x01" description="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c2f0889</tstamp>
+    </comp>
+    <comp ref="S5">
+      <value>Screw</value>
+      <footprint>footprints:10x5_7x2.5mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x01" description="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c313929</tstamp>
+    </comp>
+    <comp ref="S6">
+      <value>Screw</value>
+      <footprint>footprints:5.5_5x2.5mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x01" description="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c3372c8</tstamp>
+    </comp>
+    <comp ref="S7">
+      <value>Tofu screw</value>
+      <footprint>footprints:5.5_5x2.5mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x01" description="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c59e1cb</tstamp>
+    </comp>
+    <comp ref="S8">
+      <value>Tofu screw</value>
+      <footprint>footprints:5.5_5x2.5mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x01" description="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c5ea78c</tstamp>
+    </comp>
+    <comp ref="S9">
+      <value>Tofu screw</value>
+      <footprint>footprints:5.5_5x2.5mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x01" description="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c610563</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_PUSH</value>
+      <footprint>Button_Switch_SMD:SW_SPST_TL3342</footprint>
+      <libsource lib="keyboard_parts" part="SW_PUSH" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c2a2ecd</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>ATmega32U4</value>
+      <footprint>Keeb_components:ATMEGA32U4</footprint>
+      <libsource lib="atmel" part="ATmega32U4" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c299934</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>USBLC6-2SC6</value>
+      <footprint>Keeb_components:USBLC6-2SC6</footprint>
+      <fields>
+        <field name="Farnell">1295310</field>
+      </fields>
+      <libsource lib="keyboard_parts" part="USBLC6-2SC6" description=""/>
+      <property name="Farnell" value="1295310"/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c2db6c2</tstamp>
+    </comp>
+    <comp ref="X1">
+      <value>XTAL_GND</value>
+      <footprint>Keeb_components:Resonator_SMD_muRata_CSTNExxV-3Pin-p1.2</footprint>
+      <libsource lib="keyboard_parts" part="XTAL_GND" description=""/>
+      <property name="Sheet name" value=""/>
+      <property name="Sheet file" value="C:/_git/plain60-c/plain60-c.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>00000000-0000-0000-0000-00005c2b3619</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Screw_Terminal_01x01">
+      <description>Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x01</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x01">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x03_Odd_Even">
+      <description>Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x03_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Polyfuse">
+      <description>Resettable fuse, polymeric positive temperature coefficient</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*polyfuse*</fp>
+        <fp>*PTC*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Polyfuse</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Speaker">
+      <description>Speaker</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">LS</field>
+        <field name="Value">Speaker</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+        <pin num="2" name="2" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Type-C" part="HRO-TYPE-C-31-M-12">
+      <fields>
+        <field name="Reference">USB</field>
+        <field name="Value">HRO-TYPE-C-31-M-12</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="input"/>
+        <pin num="2" name="VBUS" type="input"/>
+        <pin num="3" name="SBU2" type="input"/>
+        <pin num="4" name="CC1" type="input"/>
+        <pin num="5" name="DN2" type="input"/>
+        <pin num="6" name="DP1" type="input"/>
+        <pin num="7" name="DN1" type="input"/>
+        <pin num="8" name="DP2" type="input"/>
+        <pin num="9" name="SBU1" type="input"/>
+        <pin num="10" name="CC2" type="input"/>
+        <pin num="11" name="VBUS" type="input"/>
+        <pin num="12" name="GND" type="input"/>
+        <pin num="13" name="SHIELD" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="atmel" part="ATmega32U4">
+      <footprints>
+        <fp>TQFP44</fp>
+        <fp>QFN</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ATmega32U4</field>
+      </fields>
+      <pins>
+        <pin num="1" name="(INT6/AIN0)PE6" type="input"/>
+        <pin num="2" name="UVCC" type="input"/>
+        <pin num="3" name="D-" type="input"/>
+        <pin num="4" name="D+" type="input"/>
+        <pin num="5" name="UGND" type="input"/>
+        <pin num="6" name="UCAP" type="input"/>
+        <pin num="7" name="VBUS" type="input"/>
+        <pin num="8" name="(SS/PCINT0)PB0" type="input"/>
+        <pin num="9" name="(SCLK/PCINT1)PB1" type="input"/>
+        <pin num="10" name="(PDI/MOSI/PCINT2)PB2" type="input"/>
+        <pin num="11" name="(PDO/MISO/PCINT3)PB3" type="input"/>
+        <pin num="12" name="(OC0A/OC1C/~RTS~/PCINT7)PB7" type="input"/>
+        <pin num="13" name="RESET" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="XTAL2" type="input"/>
+        <pin num="17" name="XTAL1" type="input"/>
+        <pin num="18" name="(OC0B/SCL/INT0)PD0" type="input"/>
+        <pin num="19" name="(SDA/INT1)PD1" type="input"/>
+        <pin num="20" name="(RXD/INT2)PD2" type="input"/>
+        <pin num="21" name="(TXD/INT3)PD3" type="input"/>
+        <pin num="22" name="(XCK1/~CTS~)PD5" type="input"/>
+        <pin num="23" name="GND" type="power_in"/>
+        <pin num="24" name="AVCC" type="power_in"/>
+        <pin num="25" name="(ICP2/ADC8)PD4" type="input"/>
+        <pin num="26" name="(T1/~OC4D~/ADC9)PD6" type="input"/>
+        <pin num="27" name="(T0/OC4D/ADC10)PD7" type="input"/>
+        <pin num="28" name="(ADC11/PCINT4)PB4" type="input"/>
+        <pin num="29" name="(ADC12/OC1A/~OC4B~/PCINT12)PB5" type="input"/>
+        <pin num="30" name="(ADC13/OC1B/OC4B/PCINT13)PB6" type="input"/>
+        <pin num="31" name="(OC3A/~OC4A~)PC6" type="input"/>
+        <pin num="32" name="(ICP3/CLK0/OC4A)PC7" type="input"/>
+        <pin num="33" name="(~HWB~)PE2" type="input"/>
+        <pin num="34" name="VCC" type="power_in"/>
+        <pin num="35" name="GND" type="power_in"/>
+        <pin num="36" name="(ADC7/TDI)PF7" type="input"/>
+        <pin num="37" name="(ADC6/TDO)PF6" type="input"/>
+        <pin num="38" name="(ADC5/TMS)PF5" type="input"/>
+        <pin num="39" name="(ADC4/TCK)PF4" type="input"/>
+        <pin num="40" name="(ADC1)PF1" type="input"/>
+        <pin num="41" name="(ADC0)PF0" type="input"/>
+        <pin num="42" name="AREF" type="input"/>
+        <pin num="43" name="GND" type="power_in"/>
+        <pin num="44" name="AVCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="keyboard_parts" part="KEYSW">
+      <fields>
+        <field name="Reference">K?</field>
+        <field name="Value">KEYSW</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="keyboard_parts" part="SW_PUSH">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_PUSH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="keyboard_parts" part="USBLC6-2SC6">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">USBLC6-2SC6</field>
+      </fields>
+      <pins>
+        <pin num="1" name="I/O1" type="passive"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="I/O2" type="passive"/>
+        <pin num="4" name="I/O2" type="passive"/>
+        <pin num="5" name="VBUS" type="power_in"/>
+        <pin num="6" name="I/O1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="keyboard_parts" part="XTAL_GND">
+      <fields>
+        <field name="Reference">X</field>
+        <field name="Value">XTAL_GND</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector.lib</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector_Generic.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="D+">
+      <node ref="J1" pin="6" pinfunction="DP1"/>
+      <node ref="J1" pin="8" pinfunction="DP2"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3"/>
+      <node ref="U2" pin="1" pinfunction="I/O1"/>
+    </net>
+    <net code="2" name="D-">
+      <node ref="J1" pin="5" pinfunction="DN2"/>
+      <node ref="J1" pin="7" pinfunction="DN1"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2"/>
+      <node ref="U2" pin="3" pinfunction="I/O2"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="C1" pin="2"/>
+      <node ref="C2" pin="1"/>
+      <node ref="C3" pin="1"/>
+      <node ref="C4" pin="1"/>
+      <node ref="C5" pin="1"/>
+      <node ref="C6" pin="1"/>
+      <node ref="H3" pin="1" pinfunction="Pin_1"/>
+      <node ref="J1" pin="1" pinfunction="GND"/>
+      <node ref="J1" pin="12" pinfunction="GND"/>
+      <node ref="J1" pin="13" pinfunction="SHIELD"/>
+      <node ref="J2" pin="6" pinfunction="Pin_6"/>
+      <node ref="J3" pin="4" pinfunction="Pin_4"/>
+      <node ref="LS1" pin="2" pinfunction="2"/>
+      <node ref="R3" pin="1"/>
+      <node ref="R4" pin="2"/>
+      <node ref="R6" pin="1"/>
+      <node ref="S1" pin="1" pinfunction="Pin_1"/>
+      <node ref="S2" pin="1" pinfunction="Pin_1"/>
+      <node ref="S3" pin="1" pinfunction="Pin_1"/>
+      <node ref="S4" pin="1" pinfunction="Pin_1"/>
+      <node ref="S5" pin="1" pinfunction="Pin_1"/>
+      <node ref="S6" pin="1" pinfunction="Pin_1"/>
+      <node ref="S7" pin="1" pinfunction="Pin_1"/>
+      <node ref="S8" pin="1" pinfunction="Pin_1"/>
+      <node ref="S9" pin="1" pinfunction="Pin_1"/>
+      <node ref="SW1" pin="1" pinfunction="1"/>
+      <node ref="U1" pin="15" pinfunction="GND"/>
+      <node ref="U1" pin="23" pinfunction="GND"/>
+      <node ref="U1" pin="35" pinfunction="GND"/>
+      <node ref="U1" pin="43" pinfunction="GND"/>
+      <node ref="U1" pin="5" pinfunction="UGND"/>
+      <node ref="U2" pin="2" pinfunction="GND"/>
+      <node ref="X1" pin="3"/>
+    </net>
+    <net code="4" name="MISO">
+      <node ref="J2" pin="1" pinfunction="Pin_1"/>
+      <node ref="U1" pin="11" pinfunction="(PDO/MISO/PCINT3)PB3"/>
+    </net>
+    <net code="5" name="MOSI">
+      <node ref="J2" pin="4" pinfunction="Pin_4"/>
+      <node ref="U1" pin="10" pinfunction="(PDI/MOSI/PCINT2)PB2"/>
+    </net>
+    <net code="6" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1"/>
+      <node ref="U1" pin="6" pinfunction="UCAP"/>
+    </net>
+    <net code="7" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A"/>
+      <node ref="K1" pin="1"/>
+    </net>
+    <net code="8" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2" pinfunction="A"/>
+      <node ref="K10" pin="2"/>
+    </net>
+    <net code="9" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2" pinfunction="A"/>
+      <node ref="K11" pin="2"/>
+    </net>
+    <net code="10" name="Net-(D12-Pad2)">
+      <node ref="D12" pin="2" pinfunction="A"/>
+      <node ref="K12" pin="2"/>
+    </net>
+    <net code="11" name="Net-(D13-Pad2)">
+      <node ref="D13" pin="2" pinfunction="A"/>
+      <node ref="K13" pin="2"/>
+    </net>
+    <net code="12" name="Net-(D14-Pad2)">
+      <node ref="D14" pin="2" pinfunction="A"/>
+      <node ref="K14" pin="2"/>
+    </net>
+    <net code="13" name="Net-(D15-Pad2)">
+      <node ref="D15" pin="2" pinfunction="A"/>
+      <node ref="K15" pin="2"/>
+      <node ref="K15-1" pin="2"/>
+    </net>
+    <net code="14" name="Net-(D16-Pad2)">
+      <node ref="D16" pin="2" pinfunction="A"/>
+      <node ref="K16" pin="2"/>
+    </net>
+    <net code="15" name="Net-(D17-Pad2)">
+      <node ref="D17" pin="2" pinfunction="A"/>
+      <node ref="K17" pin="1"/>
+    </net>
+    <net code="16" name="Net-(D18-Pad2)">
+      <node ref="D18" pin="2" pinfunction="A"/>
+      <node ref="K18" pin="2"/>
+    </net>
+    <net code="17" name="Net-(D19-Pad2)">
+      <node ref="D19" pin="2" pinfunction="A"/>
+      <node ref="K19" pin="2"/>
+    </net>
+    <net code="18" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A"/>
+      <node ref="K2" pin="1"/>
+    </net>
+    <net code="19" name="Net-(D20-Pad2)">
+      <node ref="D20" pin="2" pinfunction="A"/>
+      <node ref="K20" pin="2"/>
+    </net>
+    <net code="20" name="Net-(D21-Pad2)">
+      <node ref="D21" pin="2" pinfunction="A"/>
+      <node ref="K21" pin="2"/>
+    </net>
+    <net code="21" name="Net-(D22-Pad2)">
+      <node ref="D22" pin="2" pinfunction="A"/>
+      <node ref="K22" pin="2"/>
+    </net>
+    <net code="22" name="Net-(D23-Pad2)">
+      <node ref="D23" pin="2" pinfunction="A"/>
+      <node ref="K23" pin="2"/>
+    </net>
+    <net code="23" name="Net-(D24-Pad2)">
+      <node ref="D24" pin="2" pinfunction="A"/>
+      <node ref="K24" pin="2"/>
+    </net>
+    <net code="24" name="Net-(D25-Pad2)">
+      <node ref="D25" pin="2" pinfunction="A"/>
+      <node ref="K25" pin="2"/>
+    </net>
+    <net code="25" name="Net-(D26-Pad2)">
+      <node ref="D26" pin="2" pinfunction="A"/>
+      <node ref="K26" pin="2"/>
+    </net>
+    <net code="26" name="Net-(D27-Pad2)">
+      <node ref="D27" pin="2" pinfunction="A"/>
+      <node ref="K27" pin="2"/>
+    </net>
+    <net code="27" name="Net-(D28-Pad2)">
+      <node ref="D28" pin="2" pinfunction="A"/>
+      <node ref="K28" pin="2"/>
+    </net>
+    <net code="28" name="Net-(D29-Pad2)">
+      <node ref="D29" pin="2" pinfunction="A"/>
+      <node ref="K29" pin="2"/>
+    </net>
+    <net code="29" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A"/>
+      <node ref="K3" pin="1"/>
+    </net>
+    <net code="30" name="Net-(D31-Pad2)">
+      <node ref="D31" pin="2" pinfunction="A"/>
+      <node ref="K31" pin="1"/>
+      <node ref="K31-1" pin="1"/>
+    </net>
+    <net code="31" name="Net-(D32-Pad2)">
+      <node ref="D32" pin="2" pinfunction="A"/>
+      <node ref="K32" pin="1"/>
+    </net>
+    <net code="32" name="Net-(D33-Pad2)">
+      <node ref="D33" pin="2" pinfunction="A"/>
+      <node ref="K33" pin="2"/>
+    </net>
+    <net code="33" name="Net-(D34-Pad2)">
+      <node ref="D34" pin="2" pinfunction="A"/>
+      <node ref="K34" pin="2"/>
+    </net>
+    <net code="34" name="Net-(D35-Pad2)">
+      <node ref="D35" pin="2" pinfunction="A"/>
+      <node ref="K35" pin="2"/>
+    </net>
+    <net code="35" name="Net-(D36-Pad2)">
+      <node ref="D36" pin="2" pinfunction="A"/>
+      <node ref="K36" pin="2"/>
+    </net>
+    <net code="36" name="Net-(D37-Pad2)">
+      <node ref="D37" pin="2" pinfunction="A"/>
+      <node ref="K37" pin="1"/>
+    </net>
+    <net code="37" name="Net-(D38-Pad2)">
+      <node ref="D38" pin="2" pinfunction="A"/>
+      <node ref="K38" pin="2"/>
+    </net>
+    <net code="38" name="Net-(D39-Pad2)">
+      <node ref="D39" pin="2" pinfunction="A"/>
+      <node ref="K39" pin="2"/>
+    </net>
+    <net code="39" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A"/>
+      <node ref="K4" pin="2"/>
+    </net>
+    <net code="40" name="Net-(D40-Pad2)">
+      <node ref="D40" pin="2" pinfunction="A"/>
+      <node ref="K40" pin="2"/>
+    </net>
+    <net code="41" name="Net-(D41-Pad2)">
+      <node ref="D41" pin="2" pinfunction="A"/>
+      <node ref="K41" pin="2"/>
+    </net>
+    <net code="42" name="Net-(D42-Pad2)">
+      <node ref="D42" pin="2" pinfunction="A"/>
+      <node ref="K42" pin="2"/>
+    </net>
+    <net code="43" name="Net-(D43-Pad2)">
+      <node ref="D43" pin="2" pinfunction="A"/>
+      <node ref="K43" pin="2"/>
+    </net>
+    <net code="44" name="Net-(D44-Pad2)">
+      <node ref="D44" pin="2" pinfunction="A"/>
+      <node ref="K44" pin="1"/>
+      <node ref="K44-1" pin="2"/>
+    </net>
+    <net code="45" name="Net-(D46-Pad2)">
+      <node ref="D46" pin="2" pinfunction="A"/>
+      <node ref="K46" pin="1"/>
+      <node ref="K46-1" pin="1"/>
+    </net>
+    <net code="46" name="Net-(D47-Pad2)">
+      <node ref="D47" pin="2" pinfunction="A"/>
+      <node ref="K47" pin="1"/>
+    </net>
+    <net code="47" name="Net-(D48-Pad2)">
+      <node ref="D48" pin="2" pinfunction="A"/>
+      <node ref="K48" pin="1"/>
+    </net>
+    <net code="48" name="Net-(D49-Pad2)">
+      <node ref="D49" pin="2" pinfunction="A"/>
+      <node ref="K49" pin="2"/>
+    </net>
+    <net code="49" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A"/>
+      <node ref="K5" pin="2"/>
+    </net>
+    <net code="50" name="Net-(D50-Pad2)">
+      <node ref="D50" pin="2" pinfunction="A"/>
+      <node ref="K50" pin="2"/>
+    </net>
+    <net code="51" name="Net-(D51-Pad2)">
+      <node ref="D51" pin="2" pinfunction="A"/>
+      <node ref="K51" pin="2"/>
+    </net>
+    <net code="52" name="Net-(D52-Pad2)">
+      <node ref="D52" pin="2" pinfunction="A"/>
+      <node ref="K52" pin="2"/>
+    </net>
+    <net code="53" name="Net-(D53-Pad2)">
+      <node ref="D53" pin="2" pinfunction="A"/>
+      <node ref="K53" pin="2"/>
+    </net>
+    <net code="54" name="Net-(D54-Pad2)">
+      <node ref="D54" pin="2" pinfunction="A"/>
+      <node ref="K54" pin="2"/>
+    </net>
+    <net code="55" name="Net-(D55-Pad2)">
+      <node ref="D55" pin="2" pinfunction="A"/>
+      <node ref="K55" pin="2"/>
+    </net>
+    <net code="56" name="Net-(D56-Pad2)">
+      <node ref="D56" pin="2" pinfunction="A"/>
+      <node ref="K56" pin="2"/>
+    </net>
+    <net code="57" name="Net-(D57-Pad2)">
+      <node ref="D57" pin="2" pinfunction="A"/>
+      <node ref="K57" pin="2"/>
+    </net>
+    <net code="58" name="Net-(D58-Pad2)">
+      <node ref="D58" pin="2" pinfunction="A"/>
+      <node ref="K58" pin="2"/>
+      <node ref="K58-1" pin="2"/>
+    </net>
+    <net code="59" name="Net-(D59-Pad2)">
+      <node ref="D59" pin="2" pinfunction="A"/>
+      <node ref="K59" pin="2"/>
+    </net>
+    <net code="60" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2" pinfunction="A"/>
+      <node ref="K6" pin="2"/>
+    </net>
+    <net code="61" name="Net-(D61-Pad2)">
+      <node ref="D61" pin="2" pinfunction="A"/>
+      <node ref="K61" pin="1"/>
+      <node ref="K61-1" pin="1"/>
+    </net>
+    <net code="62" name="Net-(D62-Pad2)">
+      <node ref="D62" pin="2" pinfunction="A"/>
+      <node ref="K62" pin="2"/>
+      <node ref="K62-1" pin="2"/>
+    </net>
+    <net code="63" name="Net-(D63-Pad2)">
+      <node ref="D63" pin="2" pinfunction="A"/>
+      <node ref="K63" pin="1"/>
+      <node ref="K63-1" pin="1"/>
+    </net>
+    <net code="64" name="Net-(D67-Pad2)">
+      <node ref="D67" pin="2" pinfunction="A"/>
+      <node ref="K67" pin="1"/>
+      <node ref="K67-1" pin="1"/>
+    </net>
+    <net code="65" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2" pinfunction="A"/>
+      <node ref="K7" pin="2"/>
+    </net>
+    <net code="66" name="Net-(D71-Pad2)">
+      <node ref="D71" pin="2" pinfunction="A"/>
+      <node ref="K71" pin="1"/>
+    </net>
+    <net code="67" name="Net-(D72-Pad2)">
+      <node ref="D72" pin="2" pinfunction="A"/>
+      <node ref="K72" pin="2"/>
+      <node ref="K72-1" pin="2"/>
+    </net>
+    <net code="68" name="Net-(D73-Pad2)">
+      <node ref="D73" pin="2" pinfunction="A"/>
+      <node ref="K73" pin="2"/>
+      <node ref="K73-1" pin="2"/>
+    </net>
+    <net code="69" name="Net-(D74-Pad2)">
+      <node ref="D74" pin="2" pinfunction="A"/>
+      <node ref="K74" pin="2"/>
+      <node ref="K74-1" pin="2"/>
+    </net>
+    <net code="70" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2" pinfunction="A"/>
+      <node ref="K8" pin="2"/>
+    </net>
+    <net code="71" name="Net-(D9-Pad2)">
+      <node ref="D9" pin="2" pinfunction="A"/>
+      <node ref="K9" pin="2"/>
+    </net>
+    <net code="72" name="Net-(H1-Pad1)">
+      <node ref="H1" pin="1" pinfunction="Pin_1"/>
+      <node ref="U1" pin="8" pinfunction="(SS/PCINT0)PB0"/>
+    </net>
+    <net code="73" name="Net-(J1-Pad10)">
+      <node ref="J1" pin="10" pinfunction="CC2"/>
+      <node ref="R4" pin="1"/>
+    </net>
+    <net code="74" name="Net-(J1-Pad3)">
+      <node ref="J1" pin="3" pinfunction="SBU2"/>
+    </net>
+    <net code="75" name="Net-(J1-Pad4)">
+      <node ref="J1" pin="4" pinfunction="CC1"/>
+      <node ref="R3" pin="2"/>
+    </net>
+    <net code="76" name="Net-(J1-Pad9)">
+      <node ref="J1" pin="9" pinfunction="SBU1"/>
+    </net>
+    <net code="77" name="Net-(LS1-Pad1)">
+      <node ref="LS1" pin="1" pinfunction="1"/>
+      <node ref="U1" pin="12" pinfunction="(OC0A/OC1C/~RTS~/PCINT7)PB7"/>
+    </net>
+    <net code="78" name="Net-(R1-Pad1)">
+      <node ref="R1" pin="1"/>
+      <node ref="U1" pin="4" pinfunction="D+"/>
+    </net>
+    <net code="79" name="Net-(R1-Pad2)">
+      <node ref="R1" pin="2"/>
+      <node ref="U2" pin="6" pinfunction="I/O1"/>
+    </net>
+    <net code="80" name="Net-(R2-Pad1)">
+      <node ref="R2" pin="1"/>
+      <node ref="U2" pin="4" pinfunction="I/O2"/>
+    </net>
+    <net code="81" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2"/>
+      <node ref="U1" pin="3" pinfunction="D-"/>
+    </net>
+    <net code="82" name="Net-(R6-Pad2)">
+      <node ref="R6" pin="2"/>
+      <node ref="U1" pin="33" pinfunction="(~HWB~)PE2"/>
+    </net>
+    <net code="83" name="Net-(U1-Pad16)">
+      <node ref="U1" pin="16" pinfunction="XTAL2"/>
+      <node ref="X1" pin="2" pinfunction="2"/>
+    </net>
+    <net code="84" name="Net-(U1-Pad17)">
+      <node ref="U1" pin="17" pinfunction="XTAL1"/>
+      <node ref="X1" pin="1" pinfunction="1"/>
+    </net>
+    <net code="85" name="Net-(U1-Pad42)">
+      <node ref="U1" pin="42" pinfunction="AREF"/>
+    </net>
+    <net code="86" name="RST">
+      <node ref="J2" pin="5" pinfunction="Pin_5"/>
+      <node ref="R5" pin="1"/>
+      <node ref="SW1" pin="2" pinfunction="2"/>
+      <node ref="U1" pin="13" pinfunction="RESET"/>
+    </net>
+    <net code="87" name="SCK">
+      <node ref="J2" pin="3" pinfunction="Pin_3"/>
+      <node ref="U1" pin="9" pinfunction="(SCLK/PCINT1)PB1"/>
+    </net>
+    <net code="88" name="VBUS">
+      <node ref="F1" pin="2"/>
+      <node ref="J1" pin="11" pinfunction="VBUS"/>
+      <node ref="J1" pin="2" pinfunction="VBUS"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1"/>
+      <node ref="U2" pin="5" pinfunction="VBUS"/>
+    </net>
+    <net code="89" name="VCC">
+      <node ref="C2" pin="2"/>
+      <node ref="C3" pin="2"/>
+      <node ref="C4" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="C6" pin="2"/>
+      <node ref="F1" pin="1"/>
+      <node ref="H4" pin="1" pinfunction="Pin_1"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2"/>
+      <node ref="R5" pin="2"/>
+      <node ref="U1" pin="14" pinfunction="VCC"/>
+      <node ref="U1" pin="2" pinfunction="UVCC"/>
+      <node ref="U1" pin="24" pinfunction="AVCC"/>
+      <node ref="U1" pin="34" pinfunction="VCC"/>
+      <node ref="U1" pin="44" pinfunction="AVCC"/>
+      <node ref="U1" pin="7" pinfunction="VBUS"/>
+    </net>
+    <net code="90" name="col0">
+      <node ref="K1" pin="2"/>
+      <node ref="K16" pin="1"/>
+      <node ref="K31" pin="2"/>
+      <node ref="K31-1" pin="2"/>
+      <node ref="K46" pin="2"/>
+      <node ref="K46-1" pin="2"/>
+      <node ref="K61" pin="2"/>
+      <node ref="K61-1" pin="2"/>
+      <node ref="U1" pin="20" pinfunction="(RXD/INT2)PD2"/>
+    </net>
+    <net code="91" name="col1">
+      <node ref="K17" pin="2"/>
+      <node ref="K2" pin="2"/>
+      <node ref="K32" pin="2"/>
+      <node ref="K47" pin="2"/>
+      <node ref="K62" pin="1"/>
+      <node ref="K62-1" pin="1"/>
+      <node ref="U1" pin="19" pinfunction="(SDA/INT1)PD1"/>
+    </net>
+    <net code="92" name="col10">
+      <node ref="K11" pin="1"/>
+      <node ref="K26" pin="1"/>
+      <node ref="K41" pin="1"/>
+      <node ref="K56" pin="1"/>
+      <node ref="K71" pin="2"/>
+      <node ref="U1" pin="40" pinfunction="(ADC1)PF1"/>
+    </net>
+    <net code="93" name="col11">
+      <node ref="K12" pin="1"/>
+      <node ref="K27" pin="1"/>
+      <node ref="K42" pin="1"/>
+      <node ref="K57" pin="1"/>
+      <node ref="K72" pin="1"/>
+      <node ref="K72-1" pin="1"/>
+      <node ref="U1" pin="39" pinfunction="(ADC4/TCK)PF4"/>
+    </net>
+    <net code="94" name="col12">
+      <node ref="K13" pin="1"/>
+      <node ref="K28" pin="1"/>
+      <node ref="K43" pin="1"/>
+      <node ref="K58" pin="1"/>
+      <node ref="K58-1" pin="1"/>
+      <node ref="K73" pin="1"/>
+      <node ref="K73-1" pin="1"/>
+      <node ref="U1" pin="38" pinfunction="(ADC5/TMS)PF5"/>
+    </net>
+    <net code="95" name="col13">
+      <node ref="K14" pin="1"/>
+      <node ref="K29" pin="1"/>
+      <node ref="K44" pin="2"/>
+      <node ref="K44-1" pin="1"/>
+      <node ref="K59" pin="1"/>
+      <node ref="K74" pin="1"/>
+      <node ref="K74-1" pin="1"/>
+      <node ref="U1" pin="37" pinfunction="(ADC6/TDO)PF6"/>
+    </net>
+    <net code="96" name="col14">
+      <node ref="K15" pin="1"/>
+      <node ref="K15-1" pin="1"/>
+      <node ref="U1" pin="36" pinfunction="(ADC7/TDI)PF7"/>
+    </net>
+    <net code="97" name="col2">
+      <node ref="K18" pin="1"/>
+      <node ref="K3" pin="2"/>
+      <node ref="K33" pin="1"/>
+      <node ref="K48" pin="2"/>
+      <node ref="K63" pin="2"/>
+      <node ref="K63-1" pin="2"/>
+      <node ref="U1" pin="18" pinfunction="(OC0B/SCL/INT0)PD0"/>
+    </net>
+    <net code="98" name="col3">
+      <node ref="K19" pin="1"/>
+      <node ref="K34" pin="1"/>
+      <node ref="K4" pin="1"/>
+      <node ref="K49" pin="1"/>
+      <node ref="U1" pin="21" pinfunction="(TXD/INT3)PD3"/>
+    </net>
+    <net code="99" name="col4">
+      <node ref="K20" pin="1"/>
+      <node ref="K35" pin="1"/>
+      <node ref="K5" pin="1"/>
+      <node ref="K50" pin="1"/>
+      <node ref="U1" pin="22" pinfunction="(XCK1/~CTS~)PD5"/>
+    </net>
+    <net code="100" name="col5">
+      <node ref="K21" pin="1"/>
+      <node ref="K36" pin="1"/>
+      <node ref="K51" pin="1"/>
+      <node ref="K6" pin="1"/>
+      <node ref="U1" pin="29" pinfunction="(ADC12/OC1A/~OC4B~/PCINT12)PB5"/>
+    </net>
+    <net code="101" name="col6">
+      <node ref="K22" pin="1"/>
+      <node ref="K37" pin="2"/>
+      <node ref="K52" pin="1"/>
+      <node ref="K67" pin="2"/>
+      <node ref="K67-1" pin="2"/>
+      <node ref="K7" pin="1"/>
+      <node ref="U1" pin="41" pinfunction="(ADC0)PF0"/>
+    </net>
+    <net code="102" name="col7">
+      <node ref="K23" pin="1"/>
+      <node ref="K38" pin="1"/>
+      <node ref="K53" pin="1"/>
+      <node ref="K8" pin="1"/>
+      <node ref="U1" pin="30" pinfunction="(ADC13/OC1B/OC4B/PCINT13)PB6"/>
+    </net>
+    <net code="103" name="col8">
+      <node ref="K24" pin="1"/>
+      <node ref="K39" pin="1"/>
+      <node ref="K54" pin="1"/>
+      <node ref="K9" pin="1"/>
+      <node ref="U1" pin="31" pinfunction="(OC3A/~OC4A~)PC6"/>
+    </net>
+    <net code="104" name="col9">
+      <node ref="K10" pin="1"/>
+      <node ref="K25" pin="1"/>
+      <node ref="K40" pin="1"/>
+      <node ref="K55" pin="1"/>
+      <node ref="U1" pin="32" pinfunction="(ICP3/CLK0/OC4A)PC7"/>
+    </net>
+    <net code="105" name="row0">
+      <node ref="D1" pin="1" pinfunction="K"/>
+      <node ref="D10" pin="1" pinfunction="K"/>
+      <node ref="D11" pin="1" pinfunction="K"/>
+      <node ref="D12" pin="1" pinfunction="K"/>
+      <node ref="D13" pin="1" pinfunction="K"/>
+      <node ref="D14" pin="1" pinfunction="K"/>
+      <node ref="D15" pin="1" pinfunction="K"/>
+      <node ref="D2" pin="1" pinfunction="K"/>
+      <node ref="D3" pin="1" pinfunction="K"/>
+      <node ref="D4" pin="1" pinfunction="K"/>
+      <node ref="D5" pin="1" pinfunction="K"/>
+      <node ref="D6" pin="1" pinfunction="K"/>
+      <node ref="D7" pin="1" pinfunction="K"/>
+      <node ref="D8" pin="1" pinfunction="K"/>
+      <node ref="D9" pin="1" pinfunction="K"/>
+      <node ref="U1" pin="28" pinfunction="(ADC11/PCINT4)PB4"/>
+    </net>
+    <net code="106" name="row1">
+      <node ref="D16" pin="1" pinfunction="K"/>
+      <node ref="D17" pin="1" pinfunction="K"/>
+      <node ref="D18" pin="1" pinfunction="K"/>
+      <node ref="D19" pin="1" pinfunction="K"/>
+      <node ref="D20" pin="1" pinfunction="K"/>
+      <node ref="D21" pin="1" pinfunction="K"/>
+      <node ref="D22" pin="1" pinfunction="K"/>
+      <node ref="D23" pin="1" pinfunction="K"/>
+      <node ref="D24" pin="1" pinfunction="K"/>
+      <node ref="D25" pin="1" pinfunction="K"/>
+      <node ref="D26" pin="1" pinfunction="K"/>
+      <node ref="D27" pin="1" pinfunction="K"/>
+      <node ref="D28" pin="1" pinfunction="K"/>
+      <node ref="D29" pin="1" pinfunction="K"/>
+      <node ref="U1" pin="27" pinfunction="(T0/OC4D/ADC10)PD7"/>
+    </net>
+    <net code="107" name="row2">
+      <node ref="D31" pin="1" pinfunction="K"/>
+      <node ref="D32" pin="1" pinfunction="K"/>
+      <node ref="D33" pin="1" pinfunction="K"/>
+      <node ref="D34" pin="1" pinfunction="K"/>
+      <node ref="D35" pin="1" pinfunction="K"/>
+      <node ref="D36" pin="1" pinfunction="K"/>
+      <node ref="D37" pin="1" pinfunction="K"/>
+      <node ref="D38" pin="1" pinfunction="K"/>
+      <node ref="D39" pin="1" pinfunction="K"/>
+      <node ref="D40" pin="1" pinfunction="K"/>
+      <node ref="D41" pin="1" pinfunction="K"/>
+      <node ref="D42" pin="1" pinfunction="K"/>
+      <node ref="D43" pin="1" pinfunction="K"/>
+      <node ref="D44" pin="1" pinfunction="K"/>
+      <node ref="U1" pin="26" pinfunction="(T1/~OC4D~/ADC9)PD6"/>
+    </net>
+    <net code="108" name="row3">
+      <node ref="D46" pin="1" pinfunction="K"/>
+      <node ref="D47" pin="1" pinfunction="K"/>
+      <node ref="D48" pin="1" pinfunction="K"/>
+      <node ref="D49" pin="1" pinfunction="K"/>
+      <node ref="D50" pin="1" pinfunction="K"/>
+      <node ref="D51" pin="1" pinfunction="K"/>
+      <node ref="D52" pin="1" pinfunction="K"/>
+      <node ref="D53" pin="1" pinfunction="K"/>
+      <node ref="D54" pin="1" pinfunction="K"/>
+      <node ref="D55" pin="1" pinfunction="K"/>
+      <node ref="D56" pin="1" pinfunction="K"/>
+      <node ref="D57" pin="1" pinfunction="K"/>
+      <node ref="D58" pin="1" pinfunction="K"/>
+      <node ref="D59" pin="1" pinfunction="K"/>
+      <node ref="U1" pin="25" pinfunction="(ICP2/ADC8)PD4"/>
+    </net>
+    <net code="109" name="row4">
+      <node ref="D61" pin="1" pinfunction="K"/>
+      <node ref="D62" pin="1" pinfunction="K"/>
+      <node ref="D63" pin="1" pinfunction="K"/>
+      <node ref="D67" pin="1" pinfunction="K"/>
+      <node ref="D71" pin="1" pinfunction="K"/>
+      <node ref="D72" pin="1" pinfunction="K"/>
+      <node ref="D73" pin="1" pinfunction="K"/>
+      <node ref="D74" pin="1" pinfunction="K"/>
+      <node ref="U1" pin="1" pinfunction="(INT6/AIN0)PE6"/>
+    </net>
+  </nets>
+</export>
