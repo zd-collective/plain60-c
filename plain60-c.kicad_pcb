@@ -11136,7 +11136,7 @@
   (gr_text "rev2.2" (at 47.62504 39.290658) (layer "B.SilkS") (tstamp 00000000-0000-0000-0000-00005e0c8ec1)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
-  (gr_text "ZDC60 edition" (at 61.42 53.56) (layer "B.SilkS") (tstamp 7acd66d9-4e2e-416c-80ad-cdf585eaa47e)
+  (gr_text "Noctus Version" (at 61.42 53.56) (layer "B.SilkS") (tstamp 7acd66d9-4e2e-416c-80ad-cdf585eaa47e)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
   (gr_text "Plain60-C" (at 65.48443 36.909406) (layer "B.SilkS") (tstamp 98292bdd-bc7c-48fa-b477-5a4f6f8ee9ec)
