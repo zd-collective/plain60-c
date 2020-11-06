@@ -9,13 +9,13 @@ It also features a fuse and an ESD protection chip to protect the MCU and other 
 - modified to use the same JST header position as the WT60 by Wilba
 - holes for mounting of the weight on the Noctus
 - removed the usb type-c port and related hardware
-- added silkscreen onto the back
+- added silkscreen onto the front
+- removed standard poker mounting holes
+- removed speaker
 
 ## Features
 - Compatible with QMK Firmware and VIA Configurator (if you flash a VIA compatible .hex file)
 - JST header for connection with daughterboard
-- Footprint for optional speaker (AST1109MLTRQ)
-- ESD protection and fuse
 - No LEDs and no underglow
 - Minimal layout support
 - ISP header
