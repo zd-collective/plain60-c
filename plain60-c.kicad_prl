@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 31,
     "active_layer_preset": "",
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -58,7 +58,7 @@
       36,
       37
     ],
-    "visible_layers": "004b0e5_ffffffff"
+    "visible_layers": "004b0f5_ffffffff"
   },
   "meta": {
     "filename": "plain60-c.kicad_prl",
