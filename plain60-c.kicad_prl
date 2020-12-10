@@ -17,7 +17,7 @@
       "footprints": true,
       "graphics": true,
       "keepouts": true,
-      "lockedItems": true,
+      "lockedItems": false,
       "otherItems": true,
       "pads": true,
       "text": true,
@@ -58,7 +58,7 @@
       36,
       37
     ],
-    "visible_layers": "004b0f5_ffffffff"
+    "visible_layers": "00430ff_ffffffff"
   },
   "meta": {
     "filename": "plain60-c.kicad_prl",
